@@ -7,7 +7,7 @@ Multi-rotor simulation system modeling and simple control system implementation
 
 ---
 
-- model overview:<img width="1212" alt="ScreenClip" src="https://user-images.githubusercontent.com/37259952/195368947-1737dacb-d58a-49ac-957c-420d678072e8.png">
+- model overview:<img width="1217" alt="ScreenClip" src="https://user-images.githubusercontent.com/37259952/195635168-2c49bf6d-87c6-40d6-8995-f847f8790448.png">
 
 - simulated effect:
     1. <img width="960" alt="ScreenClip" src="https://user-images.githubusercontent.com/37259952/195368989-bdf08161-158e-4664-8f54-1a2ba638d1f8.png">
